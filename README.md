@@ -60,7 +60,7 @@ Here's a little about me:
 
 ## :memo: License ##
 
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](Kaitozerob/LICENSE.md) file.
+This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE.md) file.
 
 
 <a href="#top">Back to top</a>
