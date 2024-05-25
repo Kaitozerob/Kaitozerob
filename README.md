@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kaito</h1> <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h1 align="center">Hi <img src="https://github.com/Kaitozerob/Kaitozerob/assets/72896411/5951fd97-23ca-4df3-b4c6-1d23ba86dcc0" width="30px" height="30px" />, I'm Kaito</h1> 
 
 <!-- Portada imagen-->
 ![Perfil_portadad](https://github.com/Kaitozerob/Kaito/assets/72896411/eac03a7a-e421-49e0-909f-63e4fa0f69f7)
+
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
@@ -18,13 +19,13 @@ Here's a little about me:
 - 🤝 Strongly believes in teamwork, whether in-person or remote, and continually learns from the technology community.
 - 🎮 When I'm not coding, you can find me watching anime or with a controller in my hand, playing games.
 - ☕️ A perfect cup of coffee is the key to any coding challenge.
+
+[![](https://visitor-badge.laobi.icu/badge?page_id=Kaitozerob.Kaitozerob)](https://visitor-badge.laobi.icu/badge?page_id=Kaitozerob.Kaitozerob)
+[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joanbalbin5@gmail.com)](mailto:joanbalbin5@gmail.com)
+
+
   
 ---
-<h3 align="center"> A passionate Front-End Developer from Peru</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaitozerob" alt="kaitozerob" /></a> </p>
-
-
 <!--Tecnologias -->
 <h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Tecnologías 👩🏽‍💻 </h2>
 
@@ -35,7 +36,10 @@ Here's a little about me:
   </a>
 </p>
 
-![grid-snake](https://github.com/gerald-M14/geral-M14/assets/66845405/17af9be2-057e-47c7-a6b5-e2a8d7eada8e)
+---
+<h3 align="center"> A passionate Front-End Developer from Peru</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaitozerob" alt="kaitozerob" /></a> </p>
 
 
 ---
