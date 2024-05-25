@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 
-<!--Sobre mi -->
+<!--About me-->
 <h3> 👨🏻‍💻 About Me </h3>
 
 Here's a little about me:
@@ -26,15 +26,37 @@ Here's a little about me:
 
   
 ---
-<!--Tecnologias -->
-<h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Tecnologías 👩🏽‍💻 </h2>
+<!--Technologies-->
+<h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Technologies 👩🏽‍💻 </h2>
 
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,js,discord,figma,html,java,ts,webstorm,md,py,unity,angular,vue,vite,ai,spring,azure,ubuntu,windows,idea,visualstudio,vscode,github,git&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,py,discord,figma,java,webstorm,md,unity,angular,vue,vite,ai,spring,azure,ubuntu,windows,idea,visualstudio,vscode,github,git&perline=14" />
   </a>
 </p>
+
+<!--Programing Languages-->
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,html,css,js,ts,py,java,md&perline=3)](https://skillicons.dev)
+
+<!--Frameworks and Libraries-->
+### Frameworks and Libraries
+[![My Skills](https://skillicons.dev/icons?i=vue,angular,spring,react,flutter,vite,dotnet&perline=3)](https://skillicons.dev)
+
+<!--Databases-->
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=3)](https://skillicons.dev)
+
+<!--Tools and Software-->
+### Tools and Software
+[![My Skills](https://skillicons.dev/icons?i=git,github,azure,docker,postman,tailwind,visualstudio,vscode,webstorm,idea,unity&perline=3)](https://skillicons.dev)
+
+<!--Operating Systems-->
+
+### Operating Systems
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu&perline=3)](https://skillicons.dev)
+
 
 ---
 <h3 align="center"> A passionate Front-End Developer from Peru</h3>
