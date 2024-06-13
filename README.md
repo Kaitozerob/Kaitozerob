@@ -27,7 +27,7 @@ Here's a little about me:
   
 ---
 <!--Technologies-->
-<h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Technologies 👩🏽‍💻 </h2>
+<h2 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Technologies 🧑‍💻 </h2>
 
 <!--tech stack icons-->
 <p align="center">
@@ -59,24 +59,44 @@ Here's a little about me:
 
 
 ---
-<h3 align="center"> A passionate Front-End Developer from Peru</h3>
+<h2 align="center" style="margin-right: 10px;">A passionate Front-End Developer from Peru</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaitozerob" alt="kaitozerob" /></a> </p>
 
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaitozerob&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="kaitozerob" /></p>
+<h2 align="center" style="margin-right: 10px;">My stats 🧑‍💻</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaitozerob&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="kaitozerob" /></p>
+<!-- Stats -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaitozerob&theme=dark&hide_border=false" alt="kaitozerob" /></p>
+<p align="center">
+<a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaitozerob&show_icons=true&theme=radical&count_private=true&locale=en" alt="kaitozerob" />
+</a>
+</p>
+
+<p align="center">
+<a>
+<img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kaitozerob&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="kaitozerob" />
+</a>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaitozerob&show_icons=true&theme=radical&locale=en" alt="kaitozerob" />
+</p>
+
+---
+
+
 <img align="right" alt="GIF de gato" src="https://github.com/Kaitozerob/Kaito/assets/72896411/f54c2b63-355b-4f8c-a939-78ffab656975" width="250" />
 
+<!-- Dev Quote-->
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
+<!-- Connect with me--->
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/joanbalbin5/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
@@ -95,10 +115,10 @@ This project is licensed under the MIT License. For more details, please refer t
 
 ---
 
-_This README was generated with ❤️ by [readme-md](https://github.com/kaitozerob/README.md)
+This README was generated with ❤️ by [readme-md](https://github.com/kaitozerob/README.md)
 
 
 ----------------------------------------------------------------------
 
 
-Last Edited on: 29/05/2024
+Last Edited on: 12/06/2024
