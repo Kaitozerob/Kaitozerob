@@ -10,13 +10,12 @@
 <!--About me-->
 <h3> 👨🏻‍💻 About Me </h3>
 
-Here's a little about me:
+Hello! Here's a bit about me:
 
-- 🚀 I am a **Junior Front-End Developer** with enthusiasm for coding, design and financial management.
-- 🌱 I am currently learning **Flutter Application Development and Web Development**.
+- 🚀 Junior Front-End Developer: Enthusiastic about coding, design, and financial management.
+- 🌱  I am currently learning **Flutter Application Development and Web Development.**
 - 🎓 On my way to **Software Engineering**, perfecting my skills in programming.
-- 🖌️ Creatively expert in **Adobe Design Tools** and passionate about the latest design trends.
-- 🤝 Strongly believes in teamwork, whether in-person or remote, and continually learns from the technology community.
+- 🤝 Strong believer in teamwork and continuous learning, always eager to improve and stay updated with the latest technologies.
 - 🎮 When I'm not coding, you can find me watching anime or with a controller in my hand, playing games.
 - ☕️ A perfect cup of coffee is the key to any coding challenge.
 
@@ -42,7 +41,7 @@ Here's a little about me:
 
 <!--Frameworks and Libraries-->
 ### Frameworks and Libraries
-[![My Skills](https://skillicons.dev/icons?i=vue,angular,spring,react,flutter,vite,dotnet&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,angular,spring,react,flutter,vite&perline=3)](https://skillicons.dev)
 
 <!--Databases-->
 ### Databases
@@ -58,10 +57,6 @@ Here's a little about me:
 [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu&perline=3)](https://skillicons.dev)
 
 
----
-<h2 align="center" style="margin-right: 10px;">A passionate Front-End Developer from Peru</h2>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaitozerob" alt="kaitozerob" /></a> </p>
 
 
 ---
@@ -121,4 +116,4 @@ This README was generated with ❤️ by [readme-md](https://github.com/kaitozer
 ----------------------------------------------------------------------
 
 
-Last Edited on: 12/06/2024
+Last Edited on: 08/07/2024
