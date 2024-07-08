@@ -41,7 +41,7 @@ Hello! Here's a bit about me:
 
 <!--Frameworks and Libraries-->
 ### Frameworks and Libraries
-[![My Skills](https://skillicons.dev/icons?i=vue,angular,spring,react,flutter,vite&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,angular,spring,react,flutter,vite,nodejs,dart&perline=3)](https://skillicons.dev)
 
 <!--Databases-->
 ### Databases
