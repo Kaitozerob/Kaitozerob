@@ -139,8 +139,12 @@ This project is licensed under the MIT License. For more details, please refer t
 
 <a href="#top">Back to top</a>
 
+[![](https://visitcount.itsvg.in/api?id=Kaitozerob&label=Profile%20Views&icon=2&pretty=false)](https://visitcount.itsvg.in)
+
+
 <!-- Footer -->
 *Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)*
+
 
 ---
 
