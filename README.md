@@ -11,15 +11,20 @@
 </p>
 
 <!-- Cover Image -->
-![Perfil_portada](https://github.com/Kaitozerob/Kaito/assets/72896411/eac03a7a-e421-49e0-909f-63e4fa0f69f7)
+<a  target="_blank">
+  <img width="1834" alt="Kaitozerob Profile" src="https://github.com/user-attachments/assets/e59a521c-22a5-4458-942b-d8569ab6a62b">
+</a>
+
 
 ---
-
 <!-- GIF aligned to the right -->
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
+
 
 <!-- About Me Section -->
-<h3> 👨🏻‍💻 About Me </h3>
+## :octocat: About Me:
+<!-- GIF aligned to the right -->
+
 <p>
     Hello! Here's a bit about me:
     <ul>
@@ -31,6 +36,8 @@
         <li>☕️ A perfect cup of coffee is the key to tackling any coding challenge.</li>
     </ul>
 </p>
+
+
 
 <!-- Badges -->
 <p align="center">
