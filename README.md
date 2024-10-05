@@ -4,17 +4,14 @@
 </h1>
 
 <!-- Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+name+is+Joan;Developer+FrontEnd+Jr" alt="Typing SVG" />
-    </a>
-</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B413F7&width=435&lines=Hi!+My+name+is+Kaito;Developer+FrontEnd+Jr)](https://git.io/typing-svg)
+
 
 <!-- Cover Image -->
 <a  target="_blank">
-  <img width="1834" alt="Kaitozerob Profile" src="https://github.com/user-attachments/assets/e59a521c-22a5-4458-942b-d8569ab6a62b">
+  <img width="1834" alt="Kaitozerob Profile" src="https://github.com/user-attachments/assets/0b964128-809b-4724-b8ab-3f4f1a7bc84d">
 </a>
-
 
 ---
 <!-- GIF aligned to the right -->
