@@ -171,14 +171,14 @@
 
 ---
 
-<!-- 📊 GitHub Statistics Section -->
+<!--  GitHub Statistics Section -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" alt="Chart Up" />
   My GitHub Stats
   <img src="https://media4.giphy.com/media/i229PTC8BKt9V9RnwZ/giphy.gif" width="30" alt="Fire Coding" />
 </h2>
 
-<!-- 📈 Stats in Grid Format -->
+<!-- Stats in Grid Format -->
 <p align="center">
   <table>
     <tr>
@@ -194,36 +194,29 @@
 
 
 ---
-<!-- Random Developer Quote Section -->
-<h2 align="center" style="font-size: 2.5em; text-align: center; background: linear-gradient(45deg, #D770B3, #5E5ADB); -webkit-background-clip: text; color: transparent; display: flex; align-items: center; justify-content: center; gap: 10px;">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlrYnlyNG5vbTFheG51cnhxZm4weW5yMzU4ZXk1ZmJxNWMwZGJ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dxODB9UE879RDqAh3o/giphy.gif" width="40" height="40">
-    Inspirational Dev Quote
-    <span>✍️</span>
+<!-- ✍ Random Developer Quote Section -->
+<h2 align="center">
+  <img src="https://media4.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="40" alt="Thinking Dev" />
+  Inspirational Dev Quote ✍️
 </h2>
-
-<!-- Dev Quote Card -->
+<!--  Dev Quote Card -->
 <p align="center">
-    <a href="#">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote"/>
-    </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote" />
 </p>
 
 ---
-<!-- License Section -->
-<h2 align="center" style="font-size: 2.2em;">
-    📜 <span style="background: linear-gradient(45deg, #D770B3, #5E5ADB); -webkit-background-clip: text; color: transparent;">
-        License
-    </span>
-</h2>
+<!--  License Section -->
+<h2 align="center">📜 License</h2>
 
 - This project is open-source and licensed under the **MIT License**.  
-You can find the full terms in the [LICENSE](LICENSE) file.
-<!-- Back to Top -->
+  You can find the full terms in the [LICENSE](LICENSE) file.
+
+<!-- 🔝 Back to Top -->
 <p align="center">
-    <a href="#top" style="font-size: 1.2em; font-weight: bold; color: #D770B3;">⬆️ Back to top</a>
+  <a href="#top">⬆️ Back to top</a>
 </p>
 
----
-<h3 align="center" style="font-size: 1.2em; background: linear-gradient(45deg, #D770B3, #5E5ADB); -webkit-background-clip: text; color: transparent;">
-    Last Edited on: 04/02/2025
-</h3>
+<hr/>
+
+<!--  Last Edited -->
+<h3 align="center">🕒 Last Edited on: 19/05/2025</h3>
