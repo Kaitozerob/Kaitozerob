@@ -48,11 +48,9 @@
 ---
 
 <!-- About Me Section -->
-<h2 align="center" style="font-size: 2.5em; display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N3Z250cDBkdHIwbDk1cnMyczNyNXV4ZzJwMzFtbTd3OXV4bjQ2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="50px" height="50px"/>
-    <span style="background: linear-gradient(45deg, #D770B3, #5E5ADB); -webkit-background-clip: text; color: transparent;">
-        About Me
-    </span>
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="40px" alt="Wave" />
+  About Me
 </h2>
 
 <!-- About Me JSON Style -->
