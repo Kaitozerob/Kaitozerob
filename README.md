@@ -1,3 +1,4 @@
+
 <!-- Badges Section -->
 <div align="right">
     <!-- Profile Views Badge -->
@@ -13,6 +14,8 @@
              title="Send me an email"/>
     </a>
 </div>
+
+<img src="https://github.com/user-attachments/assets/3229634d-726b-473a-9c3a-f2b2c228a2e5" width="100%">
 
 <!-- Header Section -->
 <h1 align="center" style="font-size: 3em; text-align: center;">
@@ -32,34 +35,26 @@
     </a>
 </p>
 
-<!-- Cover Image -->
-<p align="center">
-    <img src="assets/banner_github.png" 
-         alt="Kaito GitHub Banner" title="Kaito | Software Engineer Student & Front-End Developer" width="900px"/>
-</p>
+<img src="https://github.com/user-attachments/assets/1216c2f8-8d0a-4ce9-ab52-1d13c81b9fe0"  
+    alt="Kaito GitHub Banner" title="Kaito | Software Engineer Student & Front-End Developer" width="100%"/>
 
 ---
 <!-- Connect with Me Section -->
-<h2 align="center" style="font-size: 2.5em; margin-bottom: 10px;">
-    🤝🏻 <span style="background: linear-gradient(45deg, #D770B3, #5E5ADB); -webkit-background-clip: text; color: transparent;">
-        Let's Connect
-    </span>
-</h2>
-
-<!-- Contact Icons -->
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-    <a href="https://www.linkedin.com/in/joanbalbin5/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:joanbalbin5@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://github.com/Kaitozerob" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/joanbalbin5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:joanbalbin5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Kaitozerob">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
+
 <!-- About Me Section -->
 <h2 align="center" style="font-size: 2.5em; display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N3Z250cDBkdHIwbDk1cnMyczNyNXV4ZzJwMzFtbTd3OXV4bjQ2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="50px" height="50px"/>
@@ -68,28 +63,22 @@
     </span>
 </h2>
 
-<!-- Contenido Responsivo -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; text-align: left; flex-wrap: wrap;">
-    <!-- GIFs en columna -->
-    <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-        <img src="assets/michibailando.webp" width="100px" alt="Dancing Cat"/>
-        <img src="https://media1.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="100px" alt="Coding Cat"/>
-    </div>
-    <!-- Lista de contenido -->
-    <div style="max-width: 500px; min-width: 300px;">
-        <ul style="font-size: 1em;">
-            <li>🚀 <strong>Junior Front-End Developer</strong> passionate about crafting interactive and high-quality applications.</li>
-            <li>🎓 I’m currently studying at the <strong>Universidad Peruana de Ciencias Aplicadas (UPC)</strong>.</li>
-            <li>🌱 Exploring and learning more about <strong>QA Automation and Web Development</strong> out of curiosity.</li>
-            <li>🤝 Enthusiastic about <strong>collaboration and continuous improvement</strong> in the tech industry.</li>
-            <li>☕️ <strong>A perfect cup of coffee is the key to tackling any coding challenge.</strong></li>
-        </ul>
-    </div>
-</div>
+<!-- About Me JSON Style -->
+
+```json
+{
+  "🚀 Role": "Junior Front-End Developer passionate about interactive and meaningful web experiences",
+  "🎓 Education": "Software Engineering @ UPC – Universidad Peruana de Ciencias Aplicadas",
+  "🌱 Interests": ["QA Automation", "Web Technologies", "Continuous Learning"],
+  "🤝 Community": "Active in tech communities, always open to collaborate and grow",
+  "☕ Vibes": "Lo-fi beats + good coffee = coding flow mode"
+}
+```
 
 ---
 
 <!-- Skills & Technologies -->
+![115834477-dbab4500-a447-11eb-908a-139a6edaec5c](https://github.com/user-attachments/assets/9124ca1a-bad5-4b45-9c78-58c23b00a769)
 <h2 align="center" style="font-size: 2.5em;">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
     <span style="background: linear-gradient(45deg, #D770B3, #5E5ADB); -webkit-background-clip: text; color: transparent;">
@@ -98,35 +87,97 @@
 </h2>
 
 <!-- Categories -->
-<h3 align="center">⚡ Programming Languages</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,java,py&perline=6" alt="Programming Languages"/>
+  <img src="assets/michibailando.webp" alt="Frog Coding"  align="right" style="width: 200px" />
+    <img src="https://media1.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" alt="Frog Coding"  align="right" style="width: 200px" />
 </p>
 
-<h3 align="center">📚 Frameworks & Libraries</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,angular,express,nestjs,spring,react,nextjs,flutter&perline=6" alt="Frameworks & Libraries"/>
-</p>
+<details>
+<summary>💻 <strong>Languages & Syntax</strong></summary>
 
-<h3 align="center">🗄️ Databases</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=6" alt="Databases"/>
-</p>
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![MDX](https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=mdx&logoColor=white)
 
-<h3 align="center">☁️ Cloud & DevOps</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=azure,docker,git,github,postman&perline=6" alt="Cloud & DevOps"/>
-</p>
+</details>
 
-<h3 align="center">🛠 Tools & IDEs</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,webstorm,idea&perline=6" alt="Tools & IDEs"/>
-</p>
+<details>
+<summary>🚀 <strong>Frameworks & Libraries</strong></summary>
 
-<h3 align="center">💻 Operating Systems</h3>
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu&perline=6" alt="Operating Systems"/>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+</details>
+
+<details>
+<summary>🌱 <strong>Currently Learning</strong></summary>
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+</details>
+
+<details>
+<summary>🧪 <strong>Testing Frameworks</strong></summary>
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-FFBB00?style=for-the-badge&logo=java&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+
+</details>
+
+<details>
+<summary>🧪 <strong>API Testing & Tools</strong></summary>
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=for-the-badge&logo=soapui&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+</details>
+
+<details>
+<summary>🗃️ <strong>Databases</strong></summary>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</details>
+
+<details>
+<summary>⚙️ <strong>DevOps & Deployment</strong></summary>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white)
+
+</details>
+
+<details>
+<summary>🧰 <strong>IDEs & Editors</strong></summary>
+
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+
+</details>
 
 ---
 
