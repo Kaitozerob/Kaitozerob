@@ -1,31 +1,23 @@
 
 <!-- Badges Section -->
-<div align="right">
-    <!-- Profile Views Badge -->
-    <a href="https://visitor-badge.laobi.icu/badge?page_id=Kaitozerob.Kaitozerob">
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaitozerob.Kaitozerob&title=Profile%20Views&color=#4B0082" 
-             alt="Profile Views Badge" 
-             title="Number of profile views"/>
-    </a>
-    <!-- Gmail Contact Badge -->
-    <a href="mailto:joanbalbin5@gmail.com">
-        <img src="https://img.shields.io/badge/Email%20Me-Gmail-red?style=flat&logo=Gmail&logoColor=white" 
-             alt="Contact me via Gmail" 
-             title="Send me an email"/>
-    </a>
-</div>
+<p align="right">
+  <!--  Profile Views Badge -->
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=Kaitozerob.Kaitozerob">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Kaitozerob.Kaitozerob&title=Profile%20Views" alt="Profile Views" />
+  </a>
 
+  <!-- Gmail Badge -->
+  <a href="mailto:joanbalbin5@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-Gmail-red?style=flat&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+</p>
+
+<!-- 🧑‍💻 Personal Banner Image-->
 <img src="https://github.com/user-attachments/assets/3229634d-726b-473a-9c3a-f2b2c228a2e5" width="100%">
 
 <!-- Header Section -->
-<h1 align="center" style="font-size: 3em; text-align: center;">
-    <span style="background: linear-gradient(45deg, #D770B3, #5E5ADB); -webkit-background-clip: text; color: transparent;">
-        Hi! 
-    </span>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"/>
-    <span style="background: linear-gradient(45deg, #D770B3, #5E5ADB); -webkit-background-clip: text; color: transparent;">
-        Welcome to my GitHub!
-    </span>
+<h1 align="center">
+  Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> Welcome to my GitHub!
 </h1>
 
 <!-- Typing SVG Section -->
@@ -39,7 +31,7 @@
     alt="Kaito GitHub Banner" title="Kaito | Software Engineer Student & Front-End Developer" width="100%"/>
 
 ---
-<!-- Connect with Me Section -->
+
 <!-- Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/joanbalbin5/">
