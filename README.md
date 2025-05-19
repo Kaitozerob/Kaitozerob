@@ -171,31 +171,27 @@
 
 ---
 
-<!-- GitHub Statistics Section -->
-<h2 align="center" style="font-size: 2.5em; text-align: center; background: linear-gradient(45deg, #D770B3, #5E5ADB); -webkit-background-clip: text; color: transparent; display: flex; align-items: center; justify-content: center; gap: 10px;">
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30">
-    My GitHub Stats
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDhkZjd3NHVpM3R1dW50MzI5M3luNDZvOTFjcWdnM2VoNXlhNDBubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" width="30" height="30">
+<!-- 📊 GitHub Statistics Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" alt="Chart Up" />
+  My GitHub Stats
+  <img src="https://media4.giphy.com/media/i229PTC8BKt9V9RnwZ/giphy.gif" width="30" alt="Fire Coding" />
 </h2>
 
-<!-- Stats Cards -->
+<!-- 📈 Stats in Grid Format -->
 <p align="center">
-    <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api?username=kaitozerob&show_icons=true&theme=radical&count_private=true&locale=en" alt="GitHub Stats"/>
-    </a>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=kaitozerob&show_icons=true&theme=radical&count_private=true&locale=en" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaitozerob&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </p>
 
-[//]: # (<p align="center">)
-[//]: # (    <a href="#">)
-[//]: # (        <img src="https://github-readme-streak-stats.herokuapp.com?user=kaitozerob&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>)
-[//]: # (    </a>)
-[//]: # (</p>)
-
-<p align="center">
-    <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaitozerob&show_icons=true&theme=radical&locale=en" alt="Top Languages"/>
-    </a>
-</p>
 
 ---
 <!-- Random Developer Quote Section -->
